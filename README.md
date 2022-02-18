@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Neste repositório foi construido uma landing page de cosméticos femininos.
 
-Live Preview: https://rocket-travel.vercel.app/
+Live Preview: https://rosebeauty.vercel.app/
 
 Figma: https://www.figma.com/file/w2tGRYA1OCqMTEgDCXBTTp/Landing-Page---Rose-Beauty?node-id=0%3A1
 
