@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/github/repo-size/vitorianobre/rose-beauty-landing-page&color=F9F9F9&labelColor=F2BDBD" alt="Repository size">
- <img src="https://img.shields.io/github/last-commit/vitorianobre/rose-beauty-landing-page&color=F9F9F9&labelColor=F2BDBD" alt="Last commit"/>
- <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=F9F9F9&labelColor=F2BDBD" alt="License">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/vitorianobre/rose-beauty-landing-page?color=F2BDBD">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vitorianobre/rose-beauty-landing-page?color=F2BDBD">
+  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=F9F9F9&labelColor=F2BDBD" alt="License">
 </p>
 
 <br>
